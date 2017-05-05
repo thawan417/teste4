@@ -1,0 +1,7 @@
+package com.bruno.festa.model;
+
+import java.io.Serializable;
+
+public class Convidado implements Serializable {
+
+}
